@@ -1,0 +1,28 @@
+/* Navigation Bar */
+#navbar{
+    flex-direction: column;
+}
+
+
+/* Home Section */
+#home{
+    padding: 3px 11px;
+}
+
+#home p{
+    font-size: 13px;
+}
+
+#home h1{
+    font-size: 1.5rem;
+}
+/* Button */
+
+/* Services */
+#services{
+    flex-direction: column;
+}
+
+/* Client Section */
+
+/* Form Section */
